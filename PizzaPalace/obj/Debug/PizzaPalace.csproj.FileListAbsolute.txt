@@ -1,0 +1,10 @@
+C:\Users\Stephen.Carter\source\repos\PizzaPalace\PizzaPalace\bin\Debug\PizzaPalace.exe.config
+C:\Users\Stephen.Carter\source\repos\PizzaPalace\PizzaPalace\bin\Debug\PizzaPalace.exe
+C:\Users\Stephen.Carter\source\repos\PizzaPalace\PizzaPalace\bin\Debug\PizzaPalace.pdb
+C:\Users\Stephen.Carter\source\repos\PizzaPalace\PizzaPalace\obj\Debug\PizzaPalace.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\source\repos\PizzaPalace\PizzaPalace\obj\Debug\PizzaPalace.frmPizzaPalace.resources
+C:\Users\Stephen.Carter\source\repos\PizzaPalace\PizzaPalace\obj\Debug\PizzaPalace.Properties.Resources.resources
+C:\Users\Stephen.Carter\source\repos\PizzaPalace\PizzaPalace\obj\Debug\PizzaPalace.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\source\repos\PizzaPalace\PizzaPalace\obj\Debug\PizzaPalace.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\source\repos\PizzaPalace\PizzaPalace\obj\Debug\PizzaPalace.exe
+C:\Users\Stephen.Carter\source\repos\PizzaPalace\PizzaPalace\obj\Debug\PizzaPalace.pdb
